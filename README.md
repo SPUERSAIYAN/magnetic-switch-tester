@@ -2,8 +2,8 @@
 
 一个专为《无畏契约》（Valorant）玩家设计的磁轴键盘性能测试工具，用于精确测量 WASD 按键的急停响应时间。
 
-# 🛠️ 在线使用
-http://www.supersaiyan.online:8088/
+# 线上使用
+访问网站可直接使用：http://www.supersaiyan.online:8088/
 
 ## 🎯 简介
 
